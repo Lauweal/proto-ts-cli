@@ -38,7 +38,7 @@
     "@types/node": "^20.8.10",
     "chalk": "3.0.0",
     "commander": "^11.1.0",
-    "glob": "^10.3.10",
+    "glob": "^11.0.2",
     "google-proto-files": "^4.0.0",
     "lodash": "^4.17.21",
     "protobufjs": "^7.2.5",
@@ -48,7 +48,7 @@
   "peerDependencies": {
     "chalk": "3.0.0",
     "commander": "^11.1.0",
-    "glob": "^10.3.10",
+    "glob": "^11.0.2",
     "google-proto-files": "^4.0.0",
     "lodash": "^4.17.21",
     "protobufjs": "^7.2.5",
